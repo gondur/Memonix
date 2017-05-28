@@ -1,7 +1,7 @@
 # Memonix
 memonix, a collection of memory games by Viewizard
 
-Source and artwork released SEptember 2007 under GPlv3
+Source and artwork released September 2007 under GPlv3 by Viewizard
 https://web.archive.org/web/20071012141500/http://viewizard.com:80/download.php?forceos=source
 
 this package contains http://ftp.internat.freebsd.org/pub/FreeBSD/distfiles/MemonixSourceCode_1.6_070713.zip (~1MB)
