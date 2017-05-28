@@ -1,0 +1,372 @@
+# depslib dependency file v1.0
+1144533907 /home/viewizard/CodeBlocksProject/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1144537391 /media/ntfs_d/Memonix_SDL/CodeBlocksProject/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/Math/Math.cpp
+	"Math.h"
+	"MersenneTwister.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/Math/Math.h
+	"../../Core.h"
+
+1144674042 /media/ntfs_d/Memonix_SDL/src/Main.h
+	<windows.h>
+	<io.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	"GLext.h"
+	"SDL/SDL.h"
+	"SDL/SDL_syswm.h"
+	"SDL/SDL_endian.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_mixer.h"
+	<valarray>
+	<stdarg.h>
+	"Core/Math/Math.h"
+	"Core/VirtualFileSystem/VFS.h"
+	"Core/Texture/Texture.h"
+	"Core/RendererInterface/RendererInterface.h"
+
+1144592162 /media/ntfs_d/Memonix_SDL/src/GLext.h
+	<windows.h>
+	<stddef.h>
+
+1146301150 /media/ntfs_d/Memonix_SDL/src/Core/Texture/Texture.h
+
+1146301150 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/RendererInterface.h
+	"../../Core.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/Math/Matrix33.cpp
+	"Math.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/Math/Matrix44.cpp
+	"Math.h"
+
+1146301150 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Draw2D.cpp
+	"RendererInterface.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Draw3D.cpp
+	"RendererInterface.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Light.cpp
+	"RendererInterface.h"
+
+1146405217 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Main.cpp
+	"RendererInterface.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Matrix.cpp
+	"RendererInterface.h"
+
+1146301150 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Texture.cpp
+	"RendererInterface.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/RI_Font.cpp
+	"RendererInterface.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/RI_Int.cpp
+	"RendererInterface.h"
+
+1146301150 /media/ntfs_d/Memonix_SDL/src/Core/Texture/Texture.cpp
+	"../../Core.h"
+	"Texture.h"
+
+1146403554 /media/ntfs_d/Memonix_SDL/src/Core/Texture/TextureManager.cpp
+	"../../Core.h"
+	"Texture.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/Texture/Texture_DIB.cpp
+	"../../Core.h"
+	"Texture.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/VirtualFileSystem/Haff.cpp
+	"VFS.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/VirtualFileSystem/rle.cpp
+	"VFS.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/VirtualFileSystem/vfs.cpp
+	"VFS.h"
+
+1145731448 /media/ntfs_d/Memonix_SDL/src/Main.cpp
+	"memonix_var.h"
+
+1145557164 /media/ntfs_d/Memonix_SDL/src/memonix_var.h
+	"Core.h"
+	"memonix.h"
+	"asprotect\asprotect.h"
+	"asprotect\aspr.h"
+
+1145229016 /media/ntfs_d/Memonix_SDL/src/memonix.h
+	"Core.h"
+
+1145120036 /media/ntfs_d/Memonix_SDL/src/dialogs.cpp
+	"memonix_var.h"
+
+1144772068 /media/ntfs_d/Memonix_SDL/src/game.cpp
+	"memonix_var.h"
+
+1144772068 /media/ntfs_d/Memonix_SDL/src/game_start.cpp
+	"memonix_var.h"
+
+1144613952 /media/ntfs_d/Memonix_SDL/src/loading.cpp
+	"memonix_var.h"
+
+1145557178 /media/ntfs_d/Memonix_SDL/src/loop_audio.cpp
+	"memonix_var.h"
+
+1144772068 /media/ntfs_d/Memonix_SDL/src/loop_proc.cpp
+	"memonix_var.h"
+
+1145684358 /media/ntfs_d/Memonix_SDL/src/menu.cpp
+	"memonix_var.h"
+
+1145682422 /media/ntfs_d/Memonix_SDL/src/options.cpp
+	"memonix_var.h"
+	<dirent.h>
+	<errno.h>
+	<stdio.h>
+	<io.h>
+
+1145117376 /media/ntfs_d/Memonix_SDL/src/system.cpp
+	"memonix_var.h"
+	<tchar.h>
+	<shellapi.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<pwd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+	<ltdl.h>
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/Math/MersenneTwister.h
+	<iostream>
+	<limits.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1146403226 /media/ntfs_d/Memonix_SDL/src/Core.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	"GLext.h"
+	"SDL/SDL.h"
+	"SDL/SDL_syswm.h"
+	"SDL/SDL_endian.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_mixer.h"
+	<valarray>
+	<stdarg.h>
+	"Core/System/System.h"
+	"Core/Math/Math.h"
+	"Core/VirtualFileSystem/VFS.h"
+	"Core/Texture/Texture.h"
+	"Core/RendererInterface/RendererInterface.h"
+
+1146381362 /media/ntfs_d/Memonix_SDL/src/Core/System/System.h
+	"../../Core.h"
+
+1146403420 /media/ntfs_d/Memonix_SDL/src/Core/System/Keyboard.cpp
+	"System.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/System/Mouse.cpp
+	"System.h"
+
+1146224996 /media/ntfs_d/Memonix_SDL/src/Core/System/System.cpp
+	"System.h"
+	<tchar.h>
+	<shellapi.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<pwd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+	<ltdl.h>
+
+1146383574 /media/ntfs_d/Memonix_SDL/src/Core/System/Timer.cpp
+	"System.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/Math/Math.cpp
+	"Math.h"
+	"MersenneTwister.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/Math/Math.h
+	"../../Core.h"
+
+1155467183 /media/sda5/Memonix_SDL/src/Core.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	"GLext.h"
+	"SDL/SDL.h"
+	"SDL/SDL_syswm.h"
+	"SDL/SDL_endian.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_mixer.h"
+	<valarray>
+	<stdarg.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"Core/System/System.h"
+	"Core/Math/Math.h"
+	"Core/VirtualFileSystem/VFS.h"
+	"Core/Texture/Texture.h"
+	"Core/RendererInterface/RendererInterface.h"
+
+315522000 /media/sda5/Memonix_SDL/src/GLext.h
+	<windows.h>
+	<stddef.h>
+
+315522000 /media/sda5/Memonix_SDL/src/Core/System/System.h
+	"../../Core.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/VirtualFileSystem/VFS.h
+	"../../Core.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/Texture/Texture.h
+
+315522000 /media/sda5/Memonix_SDL/src/Core/RendererInterface/RendererInterface.h
+	"../../Core.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/Math/MersenneTwister.h
+	<iostream>
+	<limits.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+315522000 /media/sda5/Memonix_SDL/src/Core/Math/Matrix33.cpp
+	"Math.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/Math/Matrix44.cpp
+	"Math.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/RendererInterface/OGL_Draw2D.cpp
+	"RendererInterface.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/RendererInterface/OGL_Draw3D.cpp
+	"RendererInterface.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/RendererInterface/OGL_Light.cpp
+	"RendererInterface.h"
+
+1153320456 /media/sda5/Memonix_SDL/src/Core/RendererInterface/OGL_Main.cpp
+	"RendererInterface.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/RendererInterface/OGL_Matrix.cpp
+	"RendererInterface.h"
+
+1153322412 /media/sda5/Memonix_SDL/src/Core/RendererInterface/OGL_Texture.cpp
+	"RendererInterface.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/RendererInterface/RI_Font.cpp
+	"RendererInterface.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/RendererInterface/RI_Int.cpp
+	"RendererInterface.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/System/Keyboard.cpp
+	"System.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/System/Mouse.cpp
+	"System.h"
+
+1155466460 /media/sda5/Memonix_SDL/src/Core/System/System.cpp
+	"System.h"
+	<tchar.h>
+	<shellapi.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<pwd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+
+315522000 /media/sda5/Memonix_SDL/src/Core/System/Timer.cpp
+	"System.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/Texture/Texture.cpp
+	"../../Core.h"
+	"Texture.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/Texture/TextureManager.cpp
+	"../../Core.h"
+	"Texture.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/Texture/Texture_DIB.cpp
+	"../../Core.h"
+	"Texture.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/VirtualFileSystem/Haff.cpp
+	"VFS.h"
+
+1155468461 /media/sda5/Memonix_SDL/src/Main.cpp
+	"memonix_var.h"
+
+1155466922 /media/sda5/Memonix_SDL/src/memonix_var.h
+	"Core.h"
+	"memonix.h"
+	"asprotect\asprotect.h"
+	"asprotect\aspr.h"
+
+315522000 /media/sda5/Memonix_SDL/src/memonix.h
+	"Core.h"
+
+1155466922 /media/sda5/Memonix_SDL/src/dialogs.cpp
+	"memonix_var.h"
+
+315522000 /media/sda5/Memonix_SDL/src/game.cpp
+	"memonix_var.h"
+
+315522000 /media/sda5/Memonix_SDL/src/game_start.cpp
+	"memonix_var.h"
+
+315522000 /media/sda5/Memonix_SDL/src/loading.cpp
+	"memonix_var.h"
+
+315522000 /media/sda5/Memonix_SDL/src/loop_audio.cpp
+	"memonix_var.h"
+
+315522000 /media/sda5/Memonix_SDL/src/loop_proc.cpp
+	"memonix_var.h"
+
+1155466922 /media/sda5/Memonix_SDL/src/menu.cpp
+	"memonix_var.h"
+
+1155466917 /media/sda5/Memonix_SDL/src/options.cpp
+	"memonix_var.h"
+	<dirent.h>
+	<errno.h>
+	<stdio.h>
+	<io.h>
+
+315522000 /media/sda5/Memonix_SDL/src/Core/VirtualFileSystem/RLE.cpp
+	"VFS.h"
+
+315522000 /media/sda5/Memonix_SDL/src/Core/VirtualFileSystem/VFS.cpp
+	"VFS.h"
+

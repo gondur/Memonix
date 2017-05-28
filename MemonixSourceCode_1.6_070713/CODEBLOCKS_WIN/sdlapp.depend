@@ -1,0 +1,1019 @@
+# depslib dependency file v1.0
+1144533907 /home/viewizard/CodeBlocksProject/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1144537391 /media/ntfs_d/Memonix_SDL/CodeBlocksProject/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1145230080 /media/ntfs_d/Memonix_SDL/src/Core/Math/Math.cpp
+	"Math.h"
+	"MersenneTwister.h"
+
+1145230106 /media/ntfs_d/Memonix_SDL/src/Core/Math/Math.h
+	"../../Core.h"
+
+1144674042 /media/ntfs_d/Memonix_SDL/src/Main.h
+	<windows.h>
+	<io.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	"GLext.h"
+	"SDL/SDL.h"
+	"SDL/SDL_syswm.h"
+	"SDL/SDL_endian.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_mixer.h"
+	<valarray>
+	<stdarg.h>
+	"Core/Math/Math.h"
+	"Core/VirtualFileSystem/VFS.h"
+	"Core/Texture/Texture.h"
+	"Core/RendererInterface/RendererInterface.h"
+
+1144592162 /media/ntfs_d/Memonix_SDL/src/GLext.h
+	<windows.h>
+	<stddef.h>
+
+1145230690 /media/ntfs_d/Memonix_SDL/src/Core/Texture/Texture.h
+
+1145230652 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/RendererInterface.h
+	"../../Core.h"
+
+1144592214 /media/ntfs_d/Memonix_SDL/src/Core/Math/Matrix33.cpp
+	"Math.h"
+
+1144592210 /media/ntfs_d/Memonix_SDL/src/Core/Math/Matrix44.cpp
+	"Math.h"
+
+1145359218 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Draw2D.cpp
+	"RendererInterface.h"
+
+1144930314 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Draw3D.cpp
+	"RendererInterface.h"
+
+1144592248 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Light.cpp
+	"RendererInterface.h"
+
+1145295754 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Main.cpp
+	"RendererInterface.h"
+
+1144592248 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Matrix.cpp
+	"RendererInterface.h"
+
+1144683764 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/OGL_Texture.cpp
+	"RendererInterface.h"
+
+1144595502 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/RI_Font.cpp
+	"RendererInterface.h"
+
+1144613130 /media/ntfs_d/Memonix_SDL/src/Core/RendererInterface/RI_Int.cpp
+	"RendererInterface.h"
+
+1145378908 /media/ntfs_d/Memonix_SDL/src/Core/Texture/Texture.cpp
+	"../../Core.h"
+	"Texture.h"
+
+1145230662 /media/ntfs_d/Memonix_SDL/src/Core/Texture/TextureManager.cpp
+	"../../Core.h"
+	"Texture.h"
+
+1145230662 /media/ntfs_d/Memonix_SDL/src/Core/Texture/Texture_DIB.cpp
+	"../../Core.h"
+	"Texture.h"
+
+1144592276 /media/ntfs_d/Memonix_SDL/src/Core/VirtualFileSystem/Haff.cpp
+	"VFS.h"
+
+1144592276 /media/ntfs_d/Memonix_SDL/src/Core/VirtualFileSystem/rle.cpp
+	"VFS.h"
+
+1144596446 /media/ntfs_d/Memonix_SDL/src/Core/VirtualFileSystem/vfs.cpp
+	"VFS.h"
+
+1145295754 /media/ntfs_d/Memonix_SDL/src/Main.cpp
+	"memonix_var.h"
+
+1145229010 /media/ntfs_d/Memonix_SDL/src/memonix_var.h
+	"Core.h"
+	"memonix.h"
+	"asprotect\asprotect.h"
+	"asprotect\aspr.h"
+
+1145229016 /media/ntfs_d/Memonix_SDL/src/memonix.h
+	"Core.h"
+
+1145120036 /media/ntfs_d/Memonix_SDL/src/dialogs.cpp
+	"memonix_var.h"
+
+1144772068 /media/ntfs_d/Memonix_SDL/src/game.cpp
+	"memonix_var.h"
+
+1144772068 /media/ntfs_d/Memonix_SDL/src/game_start.cpp
+	"memonix_var.h"
+
+1144613952 /media/ntfs_d/Memonix_SDL/src/loading.cpp
+	"memonix_var.h"
+
+1144772100 /media/ntfs_d/Memonix_SDL/src/loop_audio.cpp
+	"memonix_var.h"
+
+1144772068 /media/ntfs_d/Memonix_SDL/src/loop_proc.cpp
+	"memonix_var.h"
+
+1145379076 /media/ntfs_d/Memonix_SDL/src/menu.cpp
+	"memonix_var.h"
+
+1145379026 /media/ntfs_d/Memonix_SDL/src/options.cpp
+	"memonix_var.h"
+	<dirent.h>
+	<errno.h>
+	<stdio.h>
+	<io.h>
+
+1145117376 /media/ntfs_d/Memonix_SDL/src/system.cpp
+	"memonix_var.h"
+	<tchar.h>
+	<shellapi.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<pwd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+	<ltdl.h>
+
+1144682490 /media/ntfs_d/Memonix_SDL/src/Core/Math/MersenneTwister.h
+	<iostream>
+	<limits.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1145285034 /media/ntfs_d/Memonix_SDL/src/Core.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	"GLext.h"
+	"SDL/SDL.h"
+	"SDL/SDL_syswm.h"
+	"SDL/SDL_endian.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_mixer.h"
+	<valarray>
+	<stdarg.h>
+	"Core/Math/Math.h"
+	"Core/VirtualFileSystem/VFS.h"
+	"Core/Texture/Texture.h"
+	"Core/RendererInterface/RendererInterface.h"
+
+1145230080 d:\memonix_sdl\src\core\math\math.cpp
+	"Math.h"
+	"MersenneTwister.h"
+
+1145230106 d:\memonix_sdl\src\core\math\math.h
+	"../../Core.h"
+
+1145627886 d:\memonix_sdl\src\core.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+	<math.h>
+	"GLext.h"
+	"SDL/SDL.h"
+	"SDL/SDL_syswm.h"
+	"SDL/SDL_endian.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_mixer.h"
+	<valarray>
+	<stdarg.h>
+	"Core/Math/Math.h"
+	"Core/VirtualFileSystem/VFS.h"
+	"Core/Texture/Texture.h"
+	"Core/RendererInterface/RendererInterface.h"
+
+1144592162 d:\memonix_sdl\src\glext.h
+	<windows.h>
+	<stddef.h>
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_getenv.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_timer.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_joystick.h"
+	"SDL_events.h"
+	"SDL_video.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl\sdl_main.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090385606 d:\sdl\sdl-1.2.9\include\sdl\sdl_types.h
+
+1105229582 d:\sdl\sdl-1.2.9\include\sdl\begin_code.h
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl\close_code.h
+
+1018535714 d:\sdl\sdl-1.2.9\include\sdl\sdl_getenv.h
+	"begin_code.h"
+	"close_code.h"
+
+1100565008 d:\sdl\sdl-1.2.9\include\sdl\sdl_error.h
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl-1.2.9\include\sdl\sdl_rwops.h
+	<stdio.h>
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1105662296 d:\sdl\sdl-1.2.9\include\sdl\sdl_timer.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl-1.2.9\include\sdl\sdl_audio.h
+	<stdio.h>
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1100300958 d:\sdl\sdl-1.2.9\include\sdl\sdl_byteorder.h
+
+1113732990 d:\sdl\sdl-1.2.9\include\sdl\sdl_cdrom.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090177506 d:\sdl\sdl-1.2.9\include\sdl\sdl_joystick.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl-1.2.9\include\sdl\sdl_events.h
+	"SDL_types.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl\sdl_active.h
+	"begin_code.h"
+	"close_code.h"
+
+1090191460 d:\sdl\sdl-1.2.9\include\sdl\sdl_keyboard.h
+	"SDL_types.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl\sdl_keysym.h
+
+1113732990 d:\sdl\sdl-1.2.9\include\sdl\sdl_mouse.h
+	"SDL_types.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1104646276 d:\sdl\sdl-1.2.9\include\sdl\sdl_video.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl\sdl_mutex.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl\sdl_quit.h
+
+1113732990 d:\sdl\sdl-1.2.9\include\sdl\sdl_version.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1108234890 d:\sdl\sdl-1.2.9\include\sdl\sdl_syswm.h
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1112186284 d:\sdl\sdl-1.2.9\include\sdl\sdl_endian.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103136062 d:\sdl\sdl_image-1.2.4\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_getenv.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_timer.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_joystick.h"
+	"SDL_events.h"
+	"SDL_video.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl_main.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090385606 d:\sdl\sdl-1.2.9\include\sdl_types.h
+
+1105229582 d:\sdl\sdl-1.2.9\include\begin_code.h
+
+1073238548 d:\sdl\sdl-1.2.9\include\close_code.h
+
+1018535714 d:\sdl\sdl-1.2.9\include\sdl_getenv.h
+	"begin_code.h"
+	"close_code.h"
+
+1100565008 d:\sdl\sdl-1.2.9\include\sdl_error.h
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl-1.2.9\include\sdl_rwops.h
+	<stdio.h>
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1105662296 d:\sdl\sdl-1.2.9\include\sdl_timer.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl-1.2.9\include\sdl_audio.h
+	<stdio.h>
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1100300958 d:\sdl\sdl-1.2.9\include\sdl_byteorder.h
+
+1113732990 d:\sdl\sdl-1.2.9\include\sdl_cdrom.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090177506 d:\sdl\sdl-1.2.9\include\sdl_joystick.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl-1.2.9\include\sdl_events.h
+	"SDL_types.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl_active.h
+	"begin_code.h"
+	"close_code.h"
+
+1090191460 d:\sdl\sdl-1.2.9\include\sdl_keyboard.h
+	"SDL_types.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl_keysym.h
+
+1113732990 d:\sdl\sdl-1.2.9\include\sdl_mouse.h
+	"SDL_types.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1104646276 d:\sdl\sdl-1.2.9\include\sdl_video.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl_mutex.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl-1.2.9\include\sdl_quit.h
+
+1113732990 d:\sdl\sdl-1.2.9\include\sdl_version.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103138414 d:\sdl\sdl_mixer-1.2.6\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1145229274 d:\memonix_sdl\src\core\virtualfilesystem\vfs.h
+	"../../Core.h"
+
+1145230690 d:\memonix_sdl\src\core\texture\texture.h
+
+1145230652 d:\memonix_sdl\src\core\rendererinterface\rendererinterface.h
+	"../../Core.h"
+
+1144682490 d:\memonix_sdl\src\core\math\mersennetwister.h
+	<iostream>
+	<limits.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1144592214 d:\memonix_sdl\src\core\math\matrix33.cpp
+	"Math.h"
+
+1144592210 d:\memonix_sdl\src\core\math\matrix44.cpp
+	"Math.h"
+
+1145496066 d:\memonix_sdl\src\core\rendererinterface\ogl_draw2d.cpp
+	"RendererInterface.h"
+
+1144930314 d:\memonix_sdl\src\core\rendererinterface\ogl_draw3d.cpp
+	"RendererInterface.h"
+
+1144592248 d:\memonix_sdl\src\core\rendererinterface\ogl_light.cpp
+	"RendererInterface.h"
+
+1145295754 d:\memonix_sdl\src\core\rendererinterface\ogl_main.cpp
+	"RendererInterface.h"
+
+1144592248 d:\memonix_sdl\src\core\rendererinterface\ogl_matrix.cpp
+	"RendererInterface.h"
+
+1144683764 d:\memonix_sdl\src\core\rendererinterface\ogl_texture.cpp
+	"RendererInterface.h"
+
+1144595502 d:\memonix_sdl\src\core\rendererinterface\ri_font.cpp
+	"RendererInterface.h"
+
+1144613130 d:\memonix_sdl\src\core\rendererinterface\ri_int.cpp
+	"RendererInterface.h"
+
+1145378908 d:\memonix_sdl\src\core\texture\texture.cpp
+	"../../Core.h"
+	"Texture.h"
+
+1145230662 d:\memonix_sdl\src\core\texture\texturemanager.cpp
+	"../../Core.h"
+	"Texture.h"
+
+1145230662 d:\memonix_sdl\src\core\texture\texture_dib.cpp
+	"../../Core.h"
+	"Texture.h"
+
+1144592276 d:\memonix_sdl\src\core\virtualfilesystem\haff.cpp
+	"VFS.h"
+
+1144592276 d:\memonix_sdl\src\core\virtualfilesystem\rle.cpp
+	"VFS.h"
+
+1144596446 d:\memonix_sdl\src\core\virtualfilesystem\vfs.cpp
+	"VFS.h"
+
+1145557164 d:\memonix_sdl\src\main.cpp
+	"memonix_var.h"
+
+1145557164 d:\memonix_sdl\src\memonix_var.h
+	"Core.h"
+	"memonix.h"
+	"asprotect\asprotect.h"
+	"asprotect\aspr.h"
+
+1145229016 d:\memonix_sdl\src\memonix.h
+	"Core.h"
+
+1145682728 d:\memonix_sdl\src\asprotect\asprotect.h
+
+1145682312 d:\memonix_sdl\src\asprotect\aspr.h
+
+1145120036 d:\memonix_sdl\src\dialogs.cpp
+	"memonix_var.h"
+
+1144772068 d:\memonix_sdl\src\game.cpp
+	"memonix_var.h"
+
+1144772068 d:\memonix_sdl\src\game_start.cpp
+	"memonix_var.h"
+
+1144613952 d:\memonix_sdl\src\loading.cpp
+	"memonix_var.h"
+
+1145557178 d:\memonix_sdl\src\loop_audio.cpp
+	"memonix_var.h"
+
+1144772068 d:\memonix_sdl\src\loop_proc.cpp
+	"memonix_var.h"
+
+1145684358 d:\memonix_sdl\src\menu.cpp
+	"memonix_var.h"
+
+1145682422 d:\memonix_sdl\src\options.cpp
+	"memonix_var.h"
+	<dirent.h>
+	<errno.h>
+	<stdio.h>
+	<io.h>
+
+1145117376 d:\memonix_sdl\src\system.cpp
+	"memonix_var.h"
+	<tchar.h>
+	<shellapi.h>
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+	<pwd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+	<ltdl.h>
+
+1145683336 d:\memonix_sdl\src\protect.cpp
+	"memonix_var.h"
+	"asprotect\CppEnvelopeCheckFunc.inc"
+
+1145629314 d:\memonix_sdl\src\asprotect\cppenvelopecheckfunc.inc
+
+1073238548 d:\sdl\sdl_gcc\include\sdl.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_getenv.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_timer.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_joystick.h"
+	"SDL_events.h"
+	"SDL_video.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\include\sdl_main.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090385606 d:\sdl\sdl_gcc\include\sdl_types.h
+
+1105229582 d:\sdl\sdl_gcc\include\begin_code.h
+
+1073238548 d:\sdl\sdl_gcc\include\close_code.h
+
+1018535714 d:\sdl\sdl_gcc\include\sdl_getenv.h
+	"begin_code.h"
+	"close_code.h"
+
+1100565008 d:\sdl\sdl_gcc\include\sdl_error.h
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl_gcc\include\sdl_rwops.h
+	<stdio.h>
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1105662296 d:\sdl\sdl_gcc\include\sdl_timer.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl_gcc\include\sdl_audio.h
+	<stdio.h>
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1100300958 d:\sdl\sdl_gcc\include\sdl_byteorder.h
+
+1113732990 d:\sdl\sdl_gcc\include\sdl_cdrom.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090177506 d:\sdl\sdl_gcc\include\sdl_joystick.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl_gcc\include\sdl_events.h
+	"SDL_types.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\include\sdl_active.h
+	"begin_code.h"
+	"close_code.h"
+
+1090191460 d:\sdl\sdl_gcc\include\sdl_keyboard.h
+	"SDL_types.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\include\sdl_keysym.h
+
+1113732990 d:\sdl\sdl_gcc\include\sdl_mouse.h
+	"SDL_types.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1104646276 d:\sdl\sdl_gcc\include\sdl_video.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\include\sdl_mutex.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\include\sdl_quit.h
+
+1113732990 d:\sdl\sdl_gcc\include\sdl_version.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_getenv.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_timer.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_joystick.h"
+	"SDL_events.h"
+	"SDL_video.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\\sdl\sdl_main.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090385606 d:\sdl\sdl_gcc\\sdl\sdl_types.h
+
+1105229582 d:\sdl\sdl_gcc\\sdl\begin_code.h
+
+1073238548 d:\sdl\sdl_gcc\\sdl\close_code.h
+
+1018535714 d:\sdl\sdl_gcc\\sdl\sdl_getenv.h
+	"begin_code.h"
+	"close_code.h"
+
+1100565008 d:\sdl\sdl_gcc\\sdl\sdl_error.h
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl_gcc\\sdl\sdl_rwops.h
+	<stdio.h>
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1105662296 d:\sdl\sdl_gcc\\sdl\sdl_timer.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl_gcc\\sdl\sdl_audio.h
+	<stdio.h>
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1100300958 d:\sdl\sdl_gcc\\sdl\sdl_byteorder.h
+
+1113732990 d:\sdl\sdl_gcc\\sdl\sdl_cdrom.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090177506 d:\sdl\sdl_gcc\\sdl\sdl_joystick.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl_gcc\\sdl\sdl_events.h
+	"SDL_types.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\\sdl\sdl_active.h
+	"begin_code.h"
+	"close_code.h"
+
+1090191460 d:\sdl\sdl_gcc\\sdl\sdl_keyboard.h
+	"SDL_types.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\\sdl\sdl_keysym.h
+
+1113732990 d:\sdl\sdl_gcc\\sdl\sdl_mouse.h
+	"SDL_types.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1104646276 d:\sdl\sdl_gcc\\sdl\sdl_video.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\\sdl\sdl_mutex.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\\sdl\sdl_quit.h
+
+1113732990 d:\sdl\sdl_gcc\\sdl\sdl_version.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1108234890 d:\sdl\sdl_gcc\\sdl\sdl_syswm.h
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1112186284 d:\sdl\sdl_gcc\\sdl\sdl_endian.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_getenv.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_timer.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_joystick.h"
+	"SDL_events.h"
+	"SDL_video.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\sdl\sdl_main.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090385606 d:\sdl\sdl_gcc\sdl\sdl_types.h
+
+1105229582 d:\sdl\sdl_gcc\sdl\begin_code.h
+
+1073238548 d:\sdl\sdl_gcc\sdl\close_code.h
+
+1018535714 d:\sdl\sdl_gcc\sdl\sdl_getenv.h
+	"begin_code.h"
+	"close_code.h"
+
+1100565008 d:\sdl\sdl_gcc\sdl\sdl_error.h
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl_gcc\sdl\sdl_rwops.h
+	<stdio.h>
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1105662296 d:\sdl\sdl_gcc\sdl\sdl_timer.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl_gcc\sdl\sdl_audio.h
+	<stdio.h>
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1100300958 d:\sdl\sdl_gcc\sdl\sdl_byteorder.h
+
+1113732990 d:\sdl\sdl_gcc\sdl\sdl_cdrom.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1090177506 d:\sdl\sdl_gcc\sdl\sdl_joystick.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1093028222 d:\sdl\sdl_gcc\sdl\sdl_events.h
+	"SDL_types.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\sdl\sdl_active.h
+	"begin_code.h"
+	"close_code.h"
+
+1090191460 d:\sdl\sdl_gcc\sdl\sdl_keyboard.h
+	"SDL_types.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\sdl\sdl_keysym.h
+
+1113732990 d:\sdl\sdl_gcc\sdl\sdl_mouse.h
+	"SDL_types.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1104646276 d:\sdl\sdl_gcc\sdl\sdl_video.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\sdl\sdl_mutex.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1073238548 d:\sdl\sdl_gcc\sdl\sdl_quit.h
+
+1113732990 d:\sdl\sdl_gcc\sdl\sdl_version.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1108234890 d:\sdl\sdl_gcc\sdl\sdl_syswm.h
+	"SDL_version.h"
+	"begin_code.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<microwin/nano-X.h>
+	<windows.h>
+	<sys/neutrino.h>
+	<Ph.h>
+	"close_code.h"
+
+1112186284 d:\sdl\sdl_gcc\sdl\sdl_endian.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
